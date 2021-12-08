@@ -1,0 +1,67 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+  AUVT | ملفي الشخصي 
+{% endblock %}
+
+{% block body %}
+
+<div class="container-fluid profile_titer">
+    <h2 class="display-4 text-center text-light pt-5 tilt-in-right-1">ملفي الشخصي | My profile</h2>
+</div>
+<div class="container">
+        <div class="card rounded shadow col-md-8 mx-auto mt-5">
+             <div class="d-flex flex-wrap mt-3">
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My First name :</p>
+                    <p class="text-center"> {{ app.user.first }}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My Last name :</p>
+                    <p> {{ app.user.last}}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My country :</p>
+                    <p> {{ app.user.country}}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My city :</p>
+                    <p> {{ app.user.city}}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p>{{ app.user.age}} </p>
+                    <p class="profile_p">: My age</p></div>
+                <div class="col-md-6 d-flex justify-content-center"><p>{{ app.user.education}}</p>
+                    <p class="profile_p"> : My education level</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My specialization : </p>
+                    <p>{{ app.user.specialization}}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p>{{ app.user.email}}</p>
+                    <p class="profile_p"> : My email</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p class="profile_p">My phone :</p>
+                    <p>{{ app.user.phone}}</p></div>
+                <div class="col-md-6 col-10 d-flex justify-content-center"><p>{{ app.user.comunication}}</p>
+                    <p class="profile_p"> : My method of communication</p></div>    
+            </div> 
+            <h5 class="text-center">My donations :</h5>
+            <div class="table-responsive col-md-6 mx-auto">
+                <table class="table border shadow-lg my-3 mx-auto">
+                    <tr class="table-info">
+                        <td class="text-center">DATE</td>
+                        <td class="text-center">AMOUNT</td>
+                        <td class="text-center">STATUS</td>
+                    </tr>
+                    {# on affiche les promise faites par utilisateur courant #}
+                    {% for promise in app.user.promises %}
+                    <tr>
+                        <td>{{ promise.date|date() }}</td>
+                        <td>SAR{{ promise.amount }}</td>
+                    {% if promise.status == 0 %}
+                        <td class="bg-secondary text-white text-center">Unpaid</td>
+                    {% else %}
+                        <td class="bg-success text-white text-center">Paid</td>
+            {% endif %}
+                    </tr>
+                    {% endfor %}
+
+                </table>
+            </div>
+        </div>
+        <div class="col-md-6 mx-auto text-center my-5">
+        {# connect with user ID #}
+            <a href="{{ path('promise_done', {'id': app.user.id})}}" target="blanc" class="btn-lg text-center border rounded-pill shadow btn_adhesion">عضوية الجمعية | Adhesion a association</a>
+        </div>
+
+</div>
+
+{% endblock %}

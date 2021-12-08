@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file source-language="ar" target-language="en" datatype="plaintext" original="file.ext">
+    <header>
+      <tool tool-id="symfony" tool-name="Symfony"/>
+    </header>
+    <body>
+      <trans-unit id="jr8uxpk" resname="استقبال">
+        <source>استقبال</source>
+        <target>Home</target>
+      </trans-unit>
+      <trans-unit id="NyGwavD" resname="من نحن">
+        <source>من نحن</source>
+        <target>Who are we</target>
+      </trans-unit>
+      <trans-unit id="GyNBubB" resname="أعضاء مجلس الإدارة">
+        <source>أعضاء مجلس الإدارة</source>
+        <target>Board of Directors</target>
+      </trans-unit>
+      <trans-unit id="NuqzusI" resname="الفريق التنفيذي">
+        <source>الفريق التنفيذي</source>
+        <target>Executive team</target>
+      </trans-unit>
+      <trans-unit id="e_CLhGx" resname="الأعضاء المؤسسين للجمعية">
+        <source>الأعضاء المؤسسين للجمعية</source>
+        <target>Founding members</target>
+      </trans-unit>
+      <trans-unit id="rIjrwNP" resname="مجالنا">
+        <source>مجالنا</source>
+        <target>Our field</target>
+      </trans-unit>
+      <trans-unit id="iPdLual" resname="خدماتنا">
+        <source>خدماتنا</source>
+        <target>Our services</target>
+      </trans-unit>
+      <trans-unit id="KFpHAO3" resname="اتصل بنا">
+        <source>اتصل بنا</source>
+        <target>Contact us</target>
+      </trans-unit>
+      <trans-unit id="vh2i.49" resname="للتسجيل">
+        <source>للتسجيل</source>
+        <target>To register</target>
+      </trans-unit>
+      <trans-unit id="Gb_rfzC" resname="رئيس مجلس الإدارة&#10;الأستاذ/ عدنان سالم الغامدي">
+        <source>رئيس مجلس الإدارة
+الأستاذ/ عدنان سالم الغامدي</source>
+        <target>Chairman of Board of Directors Mr. Adnan Salem Al-Ghamdi</target>
+      </trans-unit>
+      <trans-unit id="6mc15xe" resname="مستشار مساعد رئيس الهيئة العامة للطيران المدني&#10;مدير المشروع الوطني لخدمات الطائرات بدون طيار">
+        <source>مستشار مساعد رئيس الهيئة العامة للطيران المدني
+مدير المشروع الوطني لخدمات الطائرات بدون طيار</source>
+        <target>Assistant Adviser to the President of the General Civil Aviation Authority
+National Project Manager for UAV Services</target>
+      </trans-unit>
+      <trans-unit id="1yxJ8yZ" resname="نائب رئيس مجلس الإدارة&#10;الأستاذ/ هيثم عبدالمحسن الجحدلي">
+        <source>نائب رئيس مجلس الإدارة
+الأستاذ/ هيثم عبدالمحسن الجحدلي</source>
+        <target>Deputy Chairman of the Board Mr. Haitham Abdulmohsen Al-Jahdali</target>
+      </trans-unit>
+      <trans-unit id="oqad0Ib" resname="مشرف العمليات البحرية&#10;جامعة الملك عبدالله للعلوم والتقنية">
+        <source>مشرف العمليات البحرية
+جامعة الملك عبدالله للعلوم والتقنية</source>
+        <target>Naval Operations Supervisor King Abdullah University of Science and Technology</target>
+      </trans-unit>
+      <trans-unit id="nuwiFQH" resname="المشرف المالي&#10;دكتور/ ياسر رزقان المطيري">
+        <source>المشرف المالي
+دكتور/ ياسر رزقان المطيري</source>
+        <target>Financial Supervisor Dr. Yasser Rizkan Al-Mutairi</target>
+      </trans-unit>
+      <trans-unit id="O3TDw0u" resname="مدير إدارة العمليات الرقمية لمشاريع الحرمين الشريفين بمجموعة بن لادن">
+        <source>مدير إدارة العمليات الرقمية لمشاريع الحرمين الشريفين بمجموعة بن لادن</source>
+        <target>Director of Digital Operations Department for the Two Holy Mosques Projects at Bin Laden Group</target>
+      </trans-unit>
+      <trans-unit id="L7l.8nx" resname="عضو مجلس إدارة&#10;الدكتور / عبدالاله محمد مايت">
+        <source>عضو مجلس إدارة
+الدكتور / عبدالاله محمد مايت</source>
+        <target>Member of the Board of Directors Dr. Abdelilah Mohamed Mait</target>
+      </trans-unit>
+      <trans-unit id="ZL5hEb2" resname="أستاذ مساعد في قسم الهندسة الكهربائية في جامعة الملك خالد&#10;رئيس قسم البحوث في كلية الهندسة">
+        <source>أستاذ مساعد في قسم الهندسة الكهربائية في جامعة الملك خالد
+رئيس قسم البحوث في كلية الهندسة</source>
+        <target>Assistant Professor in the Electrical Engineering Department at King Khalid University Head of the Research Department at the College of Engineering</target>
+      </trans-unit>
+      <trans-unit id="Eg8WDHZ" resname="عضو مجلس إدارة&#10;المهندس / عبد الرزاق محمد الحربي">
+        <source>عضو مجلس إدارة
+المهندس / عبد الرزاق محمد الحربي</source>
+        <target> Member of the Board of Directors Engineer / Abdul Razzaq Muhammad Al-Harbi</target>
+      </trans-unit>
+      <trans-unit id="lszJtSm" resname="مشرف جودة التقنيات الأمنية&#10;جامعة الملك عبد الله للعلوم والتقنية">
+        <source>مشرف جودة التقنيات الأمنية
+جامعة الملك عبد الله للعلوم والتقنية</source>
+        <target>Security Technology Quality Supervisor King Abdullah University of Science and Technology</target>
+      </trans-unit>
+      <trans-unit id="QpmwMnu" resname="الرئيس التنفيذي">
+        <source>الرئيس التنفيذي</source>
+        <target>Chief executive officer</target>
+      </trans-unit>
+      <trans-unit id="8IbST5y" resname="م.مكارم علي الجحدلي">
+        <source>م.مكارم علي الجحدلي</source>
+        <target>M. Makarim Ali Al-Jahdali</target>
+      </trans-unit>
+      <trans-unit id="TPamba." resname="نائب الرئيس التنفيذي">
+        <source>نائب الرئيس التنفيذي</source>
+        <target>Executive Vice President</target>
+      </trans-unit>
+      <trans-unit id="xyneDXp" resname="د.مجدي طلال أمين">
+        <source>د.مجدي طلال أمين</source>
+        <target>Dr. Magdy Talal Amin</target>
+      </trans-unit>
+      <trans-unit id="Q3Frn6P" resname="مساعد الرئيس التنفيذي">
+        <source>مساعد الرئيس التنفيذي</source>
+        <target>CEO Assistant</target>
+      </trans-unit>
+      <trans-unit id="tr3qCfV" resname="م.علي جبلي">
+        <source>م.علي جبلي</source>
+        <target>M.Ali Jabali</target>
+      </trans-unit>
+      <trans-unit id="LOctXwH" resname="مدير المشاريع">
+        <source>مدير المشاريع</source>
+        <target>Project Manager</target>
+      </trans-unit>
+      <trans-unit id="tIu0kS1" resname="د.حنين القثامي">
+        <source>د.حنين القثامي</source>
+        <target>Dr. Haneen Al-Qathami</target>
+      </trans-unit>
+      <trans-unit id="iqaK0hx" resname="مدير التشغيل">
+        <source>مدير التشغيل</source>
+        <target>Operating manger</target>
+      </trans-unit>
+      <trans-unit id="wjzsUa2" resname="م.ناصر آل قاسم">
+        <source>م.ناصر آل قاسم</source>
+        <target>M.Nasser Al Qassem</target>
+      </trans-unit>
+      <trans-unit id="JZbMdfs" resname="مدير التدريب">
+        <source>مدير التدريب</source>
+        <target>Training Manager</target>
+      </trans-unit>
+      <trans-unit id="wGV8GzK" resname="م.محمد الشلوي">
+        <source>م.محمد الشلوي</source>
+        <target>M. Mohammed Al-Shalawi</target>
+      </trans-unit>
+      <trans-unit id="nzlN0fv" resname="مدير العلاقات العامة">
+        <source>مدير العلاقات العامة</source>
+        <target>Public relations manager</target>
+      </trans-unit>
+      <trans-unit id="KScatUO" resname="م.روان بخاري">
+        <source>م.روان بخاري</source>
+        <target>M. Rawan Bukhari</target>
+      </trans-unit>
+      <trans-unit id="vKBQTaw" resname="مدير المتطوعين">
+        <source>مدير المتطوعين</source>
+        <target>Volunteer Manager </target>
+      </trans-unit>
+      <trans-unit id="xzT_cLf" resname="أ.محمد الجحدلي">
+        <source>أ.محمد الجحدلي</source>
+        <target>Mr. Mohammed Al-Jahdali</target>
+      </trans-unit>
+      <trans-unit id="pPAE2uZ" resname="مسؤول التصميم">
+        <source>مسؤول التصميم</source>
+        <target>Design Officer</target>
+      </trans-unit>
+      <trans-unit id="URaDxme" resname="م.شهد محمد">
+        <source>م.شهد محمد</source>
+        <target>M. Shahd Muhammad</target>
+      </trans-unit>
+      <trans-unit id="rl0o1gj" resname="مركبات المسيرة عن بعد بأقسامها الجوية والبرية والبحرية والمساهمة في المجهود الوطني لتوظيف هذه التقنيات في الحياة العامة ونشر المعرفة المتعلقة بها">
+        <source>مركبات المسيرة عن بعد بأقسامها الجوية والبرية والبحرية والمساهمة في المجهود الوطني لتوظيف هذه التقنيات في الحياة العامة ونشر المعرفة المتعلقة بها</source>
+        <target>A Saudi association concerned with developing remotely piloted vehicle technologies in its air, land and marine departments, and contributing to the national effort to employ these technologies in public life and disseminate knowledge related to them</target>
+      </trans-unit>
+      <trans-unit id=".e75nqm" resname="رؤية الجمعية">
+        <source>رؤية الجمعية</source>
+        <target>Assembly vision</target>
+      </trans-unit>
+      <trans-unit id="j47qKsG" resname="أن تكون مرجع وطني وعالمي وأداة فاعلة في تأسيس تقنيات">
+        <source>أن تكون مرجع وطني وعالمي وأداة فاعلة في تأسيس تقنيات</source>
+        <target>To be a national and global reference and an effective</target>
+      </trans-unit>
+      <trans-unit id="2EmlLFZ" resname="المركبات المسيرة بأقسامها المختلفة.">
+        <source>المركبات المسيرة بأقسامها المختلفة.</source>
+        <target>tool in establishing the technologies of the various parts of the vehicle</target>
+      </trans-unit>
+      <trans-unit id="p36zDuM" resname="رسالة الجمعية">
+        <source>رسالة الجمعية</source>
+        <target>Assembly message</target>
+      </trans-unit>
+      <trans-unit id="hsTfZVy" resname="تطوير صناعة وتقنيات المركبات المسيرة">
+        <source>تطوير صناعة وتقنيات المركبات المسيرة</source>
+        <target>Investing in national capabilities to develop the drone</target>
+      </trans-unit>
+      <trans-unit id="o.oLDnf" resname="و نشر المعرفة المرتبطة بها.">
+        <source>و نشر المعرفة المرتبطة بها.</source>
+        <target>industry and technologies and dissemination of related knowledge</target>
+      </trans-unit>
+      <trans-unit id="zk9NnKa" resname="مجلس الإدارة">
+        <source>مجلس الإدارة</source>
+        <target>Board of Directors</target>
+      </trans-unit>
+      <trans-unit id="XPPDo5z" resname="الأعضاء المؤسسين">
+        <source>الأعضاء المؤسسين</source>
+        <target>Founding members</target>
+      </trans-unit>
+      <trans-unit id="cFYguBY" resname="أتصل بنا">
+        <source>أتصل بنا</source>
+        <target>Contact us</target>
+      </trans-unit>
+      <trans-unit id="efUjddP" resname="للأستفسارات:">
+        <source>للأستفسارات:</source>
+        <target>Send your request</target>
+      </trans-unit>
+      <trans-unit id="w8rLLHj" resname="تمثل تقنيات المركبات المسيرة عن بعد ثورة كبيرة في مجال تقنيات النقل والخدمات وتتنوع من حيث الاستخدام الى ثلاثة اقسام رئيسية (الجوية والبرية والبحرية) وتمثل الطائرات بدون طيار (الدرونز) أسرع تلك التقنيات تطوراً واعتمادية في الوقت الراهن ويتوقع لها مستقبل مزدهر وتطبيقات متنوعة وأساسية">
+        <source>تمثل تقنيات المركبات المسيرة عن بعد ثورة كبيرة في مجال تقنيات النقل والخدمات وتتنوع من حيث الاستخدام الى ثلاثة اقسام رئيسية (الجوية والبرية والبحرية) وتمثل الطائرات بدون طيار (الدرونز) أسرع تلك التقنيات تطوراً واعتمادية في الوقت الراهن ويتوقع لها مستقبل مزدهر وتطبيقات متنوعة وأساسية</source>
+        <target>Remotely unmanned vehicles technology represents a major revolution in transportation technologies. There are three modes of transportation, which are air, water and land. The fastest technology and well-developed one is (drones). In the future, the use of drones will be in various aspects for different purposes</target>
+      </trans-unit>
+      <trans-unit id="aK1GpqE" resname="لماذا تقنية المركبات المسیرة؟">
+        <source>لماذا تقنية المركبات المسیرة؟</source>
+        <target>Why unmanned vehicles technology ?</target>
+      </trans-unit>
+      <trans-unit id="L7rHba_" resname="تجمع تقنية المركبات المسيرة منظومة تقنيات متعددة تعتبر أدوات المستقبل للتطور التقني فتجمع هذه التقنية: الذكاء الاصطناعي تعلم الآلة وإنترنت الأشياء بجانب تقنية الروبوتكس.&#10;إن تقنيات المركبات المسيرة عن بعد ستلعب دوراً كبيراً في مسيرة التطور بالمملكة العربية السعودية في الجوانب التقنية والاقتصادية والخدمية والأمنية، لذا فإن هذه التقنيات تستدعي الشراكة مع المجتمع العلمي والاقتصادي والأساتذة والعلماء والمتخصصين لإيجاد حلول لكل المعضلات والعوائق التي تعترض طريق هذه التقنيات.">
+        <source>تجمع تقنية المركبات المسيرة منظومة تقنيات متعددة تعتبر أدوات المستقبل للتطور التقني فتجمع هذه التقنية: الذكاء الاصطناعي تعلم الآلة وإنترنت الأشياء بجانب تقنية الروبوتكس.
+إن تقنيات المركبات المسيرة عن بعد ستلعب دوراً كبيراً في مسيرة التطور بالمملكة العربية السعودية في الجوانب التقنية والاقتصادية والخدمية والأمنية، لذا فإن هذه التقنيات تستدعي الشراكة مع المجتمع العلمي والاقتصادي والأساتذة والعلماء والمتخصصين لإيجاد حلول لكل المعضلات والعوائق التي تعترض طريق هذه التقنيات.</source>
+        <target>The technology of unmanned vehicles has a system of multiple technologies. These technologies are considered the tools of the future for technical development. This technology combines: artificial intelligence, machine learning, the Internet of Things, and robotics technology.
+Remotely unmanned vehicles technology will play a major role in the development of Saudi Arabia. This development includes technology, economy, services and security aspects. Therefore, these technologies call for partnership with the educational and economic industries. These two industries include variety of elite professors, scientists and specialists who are capable of finding solutions for issues and obstacles that appear along the way
+</target>
+      </trans-unit>
+      <trans-unit id="zYe1R3K" resname="لجهات الحكومية المرتبطة بنشاط الجمعية">
+        <source>لجهات الحكومية المرتبطة بنشاط الجمعية</source>
+        <target>Government agencies related to the association's activities</target>
+      </trans-unit>
+      <trans-unit id="z37LNpN" resname="وزارة الاتصالات وتقنية المعلومات">
+        <source>وزارة الاتصالات وتقنية المعلومات</source>
+        <target>Ministry of Communications and Information Technology</target>
+      </trans-unit>
+      <trans-unit id="LjMmE5C" resname="وزارة النقل">
+        <source>وزارة النقل</source>
+        <target>Ministry of Transportation</target>
+      </trans-unit>
+      <trans-unit id="rmJfpho" resname="وزارة الموارد البشرية والتنمية الإجتماعية">
+        <source>وزارة الموارد البشرية والتنمية الإجتماعية</source>
+        <target>Ministry of Human Resources and Social Development</target>
+      </trans-unit>
+      <trans-unit id="A82TRvL" resname="خدمــــاتنا">
+        <source>خدمــــاتنا</source>
+        <target>Our services</target>
+      </trans-unit>
+      <trans-unit id="hF6lWZi" resname="حرصنا منا على تقديم ماهو الافضل للمجتمع">
+        <source>حرصنا منا على تقديم ماهو الافضل للمجتمع</source>
+        <target>We are keen to provide what is best for the community and to support creativity</target>
+      </trans-unit>
+      <trans-unit id="6hTG5_Q" resname="ودعماً للإبداع و والابتكار نقدم عدة خدمات">
+        <source>ودعماً للإبداع و والابتكار نقدم عدة خدمات</source>
+        <target>and innovation. We offer several services that work on preparing an empowered</target>
+      </trans-unit>
+      <trans-unit id="QoYb2ps" resname="تعمل على إعداد مجتمع تقني متمكن">
+        <source>تعمل على إعداد مجتمع تقني متمكن</source>
+        <target>technical community</target>
+      </trans-unit>
+      <trans-unit id="Yu0J6gM" resname="التدريب وورش العمل">
+        <source>التدريب وورش العمل</source>
+        <target>Training and workshops</target>
+      </trans-unit>
+      <trans-unit id=".0fMZKA" resname="دراسة المنتجات وتصنيعها">
+        <source>دراسة المنتجات وتصنيعها</source>
+        <target>Product study and manufacture</target>
+      </trans-unit>
+      <trans-unit id="snwk_zw" resname="تقديم الخدمات الإستشارية">
+        <source>تقديم الخدمات الإستشارية</source>
+        <target>Providing advisory services</target>
+      </trans-unit>
+      <trans-unit id="hFdpZFr" resname="الشهادات و التأهيل">
+        <source>الشهادات و التأهيل</source>
+        <target>Certifications and qualifications</target>
+      </trans-unit>
+      <trans-unit id="4WA48Wu" resname="ورش العمل والمؤتمرات واللقاءات">
+        <source>ورش العمل والمؤتمرات واللقاءات</source>
+        <target>Workshops, conferences and meetings</target>
+      </trans-unit>
+      <trans-unit id="JgfeMpA" resname="المسرعات وحاضنات الأعمال">
+        <source>المسرعات وحاضنات الأعمال</source>
+        <target>Accelerators and business incubators</target>
+      </trans-unit>
+      <trans-unit id="84rpAIz" resname="سجل نفسك">
+        <source>سجل نفسك</source>
+        <target>To register</target>
+      </trans-unit>
+      <trans-unit id="dXLYdZm" resname="جمعية تقنيات المركبات المسيرة">
+        <source>جمعية تقنيات المركبات المسيرة</source>
+        <target>Unmanned Vehicles Technology Association</target>
+      </trans-unit>
+      <trans-unit id="ndCotgS" resname="مجالات عمل الجمعية">
+        <source>مجالات عمل الجمعية</source>
+        <target>Areas of work of the association</target>
+      </trans-unit>
+      <trans-unit id="IJsAjzE" resname="إجراء الدراسات والأبحاث">
+        <source>إجراء الدراسات والأبحاث</source>
+        <target>Conducting studies and research </target>
+      </trans-unit>
+      <trans-unit id="mlxxTih" resname="والإستشارات">
+        <source>والإستشارات</source>
+        <target>and consultancy</target>
+      </trans-unit>
+      <trans-unit id="IK7Mjc9" resname="الطائرات المسيرة">
+        <source>الطائرات المسيرة</source>
+        <target> Drones</target>
+      </trans-unit>
+      <trans-unit id="r3gecq7" resname="بدون طيار">
+        <source>بدون طيار</source>
+        <target>without pilot</target>
+      </trans-unit>
+      <trans-unit id="PmtF2iE" resname="أنظمة الاتصالات">
+        <source>أنظمة الاتصالات</source>
+        <target>Communication systems</target>
+      </trans-unit>
+      <trans-unit id="jQv72pn" resname="بالمركبات المسيرة">
+        <source>بالمركبات المسيرة</source>
+        <target>with unmanned vehicles</target>
+      </trans-unit>
+      <trans-unit id="He2nMvw" resname="تصميم وتصنيع">
+        <source>تصميم وتصنيع</source>
+        <target>Design and manufacture</target>
+      </trans-unit>
+      <trans-unit id="LGEHoNA" resname="المركبات المسيرة">
+        <source>المركبات المسيرة</source>
+        <target>Drones</target>
+      </trans-unit>
+      <trans-unit id="zHxw5Gz" resname="التحكـــــم">
+        <source>التحكـــــم</source>
+        <target>Control</target>
+      </trans-unit>
+      <trans-unit id="OgKtEOs" resname="القوارب والغواصات">
+        <source>القوارب والغواصات</source>
+        <target>Boats and submarines</target>
+      </trans-unit>
+      <trans-unit id="BBNA8qa" resname="والمركبات المسيرة عن بعد">
+        <source>والمركبات المسيرة عن بعد</source>
+        <target>and remotely piloted vehicles</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

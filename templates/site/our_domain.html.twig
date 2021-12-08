@@ -1,0 +1,48 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+  AUVT |  مجالنا 
+{% endblock %}
+
+{% block body %}
+<div class="container-fluid domain_titer">
+    <h1 class="display-2 text-center text-light pt-5 tilt-in-right-1">{% trans %} مجالات عمل الجمعية{% endtrans %}</h1>
+</div>
+<div class="container">
+    <div class="row my-5"> 
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_1.png')}}" width="200" alt="message">
+            <p class="text-center domain_p">{% trans %} إجراء الدراسات والأبحاث{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} والإستشارات{% endtrans %}</p>
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_4.png')}}" width="200" alt="drone">
+            <p class="text-center domain_p">{% trans %} الطائرات المسيرة{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} بدون طيار{% endtrans %}</p>
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_2.png')}}" width="200" alt="system_communication">
+            <p class="text-center domain_p">{% trans %} أنظمة الاتصالات{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} بالمركبات المسيرة{% endtrans %}</p>
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_5.png')}}" width="200" alt="production">
+            <p class="text-center domain_p">{% trans %} تصميم وتصنيع{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} المركبات المسيرة{% endtrans %}</p>
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_3.png')}}" width="200" alt="control">
+            <p class="text-center domain_p">{% trans %} التحكـــــم{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} بالمركبات المسيرة{% endtrans %}</p>
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center">
+            <img class="mx-auto scale-in-center" src="{{ asset('../uploads/domain_images/domain_6.png')}}" width="200" alt="boat">
+            <p class="text-center domain_p">{% trans %} القوارب والغواصات{% endtrans %}</p>
+            <p class="text-center domain_p">{% trans %} والمركبات المسيرة عن بعد{% endtrans %}</p>
+        </div>
+        
+    </div>
+</div>
+
+
+{% endblock %}

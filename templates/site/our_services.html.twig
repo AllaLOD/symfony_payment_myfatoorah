@@ -1,0 +1,53 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}
+  AUVT | خدماتنا  
+{% endblock %}
+
+{% block body %}
+<div class="container-fluid services_titer">
+    <h1 class="display-2 text-center text-light pt-5 tilt-in-right-1">{% trans %} خدمــــاتنا{% endtrans %}</h1>
+    <p class="text-center text-light services_p">{% trans %} حرصنا منا على تقديم ماهو الافضل للمجتمع{% endtrans %}</p>
+    <p class="text-center text-light services_p">{% trans %} ودعماً للإبداع و والابتكار نقدم عدة خدمات{% endtrans %}</p>
+    <p class="text-center text-light services_p">{% trans %} تعمل على إعداد مجتمع تقني متمكن{% endtrans %}</p>
+</div>
+<div class="container card rounded shadow-lg  my-5">
+    <div class="row my-5"> 
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto" src="{{ asset('../uploads/icones/conference.png')}}" width="150" alt="">
+            <p class="text-center mt-3">{% trans %} التدريب وورش العمل{% endtrans %}</p>
+            
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto"  src="{{ asset('../uploads/icones/developement.png')}}" width="150" alt="">
+            <p class="text-center mt-3">{% trans %} دراسة المنتجات وتصنيعها{% endtrans %}</p>
+            
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto" src="{{ asset('../uploads/icones/meeting.png')}}" width="150" alt="">
+            <p class="text-center mt-3">{% trans %} تقديم الخدمات الإستشارية {% endtrans %}</p>
+            
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto" src="{{ asset('../uploads/icones/patent_certificate.png')}}" width="150" alt="certificat">
+            <p class="text-center mt-3">{% trans %} الشهادات و التأهيل{% endtrans %}</p>
+            
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto" src="{{ asset('../uploads/icones/conference_reunion.png')}}" width="150" alt="conference">
+            <p class="text-center mt-3">{% trans %} ورش العمل والمؤتمرات واللقاءات{% endtrans %}</p>
+      
+        </div>
+        <div class="col-lg-4 col-md-6 d-flex flex-column text-center my-3">
+            <img class="mx-auto" src="{{ asset('../uploads/icones/handshake.png')}}" width="150" alt="handshake">
+            <p class="text-center">{% trans %} المسرعات وحاضنات الأعمال{% endtrans %}</p>
+            
+        </div>
+        
+    </div>
+    
+</div>
+
+
+
+{% endblock %}
