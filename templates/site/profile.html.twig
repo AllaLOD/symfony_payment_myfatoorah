@@ -43,16 +43,16 @@
                     </tr>
                     {# on affiche les promise faites par utilisateur courant #}
                     {% for promise in app.user.promises %}
-                    <tr>
-                        <td>{{ promise.date|date() }}</td>
-                        <td>SAR{{ promise.amount }}</td>
-                    {% if promise.status == 0 %}
-                        <td class="bg-secondary text-white text-center">Unpaid</td>
-                    {% else %}
-                        <td class="bg-success text-white text-center">Paid</td>
-            {% endif %}
-                    </tr>
+                        {% if promise.status == 1 %}
+                        <tr>
+                            <td>{{ promise.date|date() }}</td>
+                            <td>SAR{{ promise.amount }}</td>
+                            <td class="bg-success text-white text-center">Paid</td>
+                        {% endif %}
+                        </tr>
                     {% endfor %}
+
+
 
                 </table>
             </div>
