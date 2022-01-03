@@ -51,10 +51,10 @@ class Payment
             'CustomerEmail' => $user->getEmail(),
             'CustomerMobile' => $user->getPhone(),
             'CallBackUrl' => $this->urlGenerator->generate('adhesion', [
-                'id' => $promise->getId() , '_locale' => $locale
+                'id' => $promise->getId() //, '_locale' => $locale
                 ], UrlGeneratorInterface::ABSOLUTE_URL) . '?paymentStatus=success',
             'ErrorUrl' => $this->urlGenerator->generate('adhesion', [
-                'id' => $promise->getId() , '_locale' => $locale
+                'id' => $promise->getId() //, '_locale' => $locale
                 ], UrlGeneratorInterface::ABSOLUTE_URL) . '?paymentStatus=failure',
         ];
 

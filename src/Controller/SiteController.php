@@ -170,12 +170,12 @@ class SiteController extends AbstractController
             //}
 
             // Ajouter un message de succès
-            //$this->addFlash('success', 'تم تسجيل الوعد | Promise saved successfully');
+            $this->addFlash('success', 'تم تسجيل الوعد | Promise saved successfully');
 
             // Redirection vers la page Adhesion
-            /*return $this->redirectToRoute('adhesion', [
+            return $this->redirectToRoute('adhesion', [
                 'id' => $promise->getId()
-            ]);*/
+            ]);
         }
 
         return $this->render('site/promise_done.html.twig', [
